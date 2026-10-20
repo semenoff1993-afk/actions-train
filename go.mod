@@ -1,3 +1,3 @@
 module github.com/semenoff1993-afk/actions-train
 
-go 1.27.1
+go 1.27
